@@ -4,6 +4,7 @@ Using Next.js 14 App Router, with typescript and tailwindcss
 
 Examples:
 - [Using server actions in client components](src/app/examples/server-actions)
+- [revalidateTag example](src/app/examples/revalidateTag)
 
 ## Getting Started
 

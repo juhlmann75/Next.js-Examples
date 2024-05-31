@@ -9,6 +9,11 @@ export default function Home() {
             Using Server Action in Client Components Example
           </Link>
         </li>
+        <li>
+          <Link href={"/examples/revalidateTag"} className="underline text-blue-500">
+            Simple revalidateTag Example
+          </Link>
+        </li>
       </ul>
     </main>
   );
